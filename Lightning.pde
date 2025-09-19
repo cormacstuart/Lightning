@@ -17,7 +17,7 @@ void setup()
   int landY = 300;
   int oLoop = 100;
   int toggle = 0;
-  float weight = 5;
+  float weight = 4;
 void draw()
 {
   fill(50,50,50,50);
